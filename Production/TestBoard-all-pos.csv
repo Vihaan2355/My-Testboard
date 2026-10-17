@@ -1,0 +1,15 @@
+Designator,Val,Package,Mid X,Mid Y,Rot,Layer
+"C1","100n","C_Disc_D7.0mm_W2.5mm_P5.00mm",137.980000,-92.600000,180.000000,top
+"C2","10n","C_Disc_D7.0mm_W2.5mm_P5.00mm",141.100000,-103.800000,90.000000,top
+"C3","47u/16v","CP_Radial_D5.0mm_P2.50mm",124.600000,-105.200000,-90.000000,top
+"D1","BLUE","LED_D3.0mm",144.600000,-108.600000,180.000000,top
+"H1","MountingHole_Pad","MountingHole_3.2mm_M3_DIN965_Pad",118.000000,-85.000000,0.000000,top
+"H2","MountingHole_Pad","MountingHole_3.2mm_M3_DIN965_Pad",118.000000,-115.000000,0.000000,top
+"H3","MountingHole_Pad","MountingHole_3.2mm_M3_DIN965_Pad",151.000000,-85.000000,0.000000,top
+"H4","MountingHole_Pad","MountingHole_3.2mm_M3_DIN965_Pad",151.000000,-115.000000,0.000000,top
+"J1","Screw_Terminal_01x02","TerminalBlock_Phoenix_PT-1,5-2-3.5-H_1x02_P3.50mm_Horizontal",120.100000,-97.550000,-90.000000,top
+"R1","1K","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",128.840000,-108.600000,0.000000,top
+"R2","1K","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",122.840000,-86.000000,0.000000,top
+"R3","1K","R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal",135.840000,-86.000000,0.000000,top
+"RV1","10K","Potentiometer_Bourns_3386P_Vertical",148.140000,-97.760000,180.000000,top
+"U1","LM555xN","DIP-8_W7.62mm",130.480000,-96.100000,0.000000,top
