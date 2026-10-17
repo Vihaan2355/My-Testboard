@@ -1,6 +1,6 @@
 # My-Testboard
 
-This repository contains the design files for a custom hardware development and test board built using KiCad for the Hack Club hardware track. The circuit is designed around a standard LM555 testboard.
+This repository contains the design files for a custom hardware development and test board built using KiCad. The circuit is designed around a standard LM555 testboard.
 
 <img width="489" height="410" alt="TESTBOARD CAD" src="https://github.com/user-attachments/assets/09ea1cf6-1259-4e7b-b2ae-bd08b5c43267" />
 <img width="320" height="201" alt="TESTBOARD SCHEMATIC" src="https://github.com/user-attachments/assets/18cb0935-e3fe-47ce-89bb-a00024fb8471" />
